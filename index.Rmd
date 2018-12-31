@@ -1,0 +1,26 @@
+--- 
+title: "Kitty Story"
+subtitle: "A New Series"
+author: "Beckett and Felix "
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: krantz
+fontsize: 12pt
+classoption: oneside
+description: "A New Series about Kitty"
+cover-image: "img/05-four-bad-guys.jpg"
+favicon: "img/mc-favicon.ico"
+github-repo: "bwstephens/kitty-story"
+---
+
+# Preface {-}
+
+# About the Authors {-}
+
+Beckett is an aspiring author and illustrator. Beckett also loves Minecraft, Lego's, and Transformers, as well as making up endless stories while he walks. 
+
+Felix
+
+# Acknowledgements {-}
+
+Thanks to Dad for helping us publish this book online.
