@@ -15,6 +15,8 @@ github-repo: "bwstephens/kitty-story"
 
 # Preface {-}
 
+![](img/catplanet.jpg)
+
 # About the Authors {-}
 
 Beckett is an aspiring author and illustrator. Beckett also loves Minecraft, Lego's, and Transformers, as well as making up endless stories while he walks. 

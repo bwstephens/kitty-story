@@ -37,6 +37,15 @@
 \usepackage{longtable,booktabs}
 % Fix footnotes in tables (requires footnote package)
 \IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -66,7 +75,7 @@
 \providecommand{\subtitle}[1]{}
 \subtitle{A New Series}
 \author{Beckett and Felix}
-\date{2018-12-31}
+\date{2019-01-26}
 
 \begin{document}
 \maketitle
@@ -78,6 +87,8 @@
 \hypertarget{preface}{%
 \chapter*{Preface}\label{preface}}
 
+
+\includegraphics{img/catplanet.jpg}
 
 \hypertarget{about-the-authors}{%
 \chapter*{About the Authors}\label{about-the-authors}}
@@ -102,6 +113,8 @@ Once there was a king on Cat Planet named King Cat. He was a mean king.
 He got all the fish, money, and prizes. King Cat was happy even when a
 cat lost. He gave himself a prize because he said so.
 
+\includegraphics{img/thewinner.jpg}
+
 \hypertarget{kitty}{%
 \chapter{Kitty}\label{kitty}}
 
@@ -110,6 +123,8 @@ known for his great skill and good deeds and never giving up. He got no
 fish, money, or prizes, but he did get famous. That was enough to keep
 him happy and proud. Kitty was also very nice. You might think King Cat
 hates Kitty and you would be right.
+
+\includegraphics{img/kittyhero.jpg}
 
 \hypertarget{mr-fluffy-pants}{%
 \chapter{Mr Fluffy Pants}\label{mr-fluffy-pants}}
@@ -132,6 +147,8 @@ said.
 King Cat was about to change the channel when he saw something shiny.
 
 ``Very interesting\ldots{}'' King Cat said.
+
+\includegraphics{img/fluffypants.jpg}
 
 \hypertarget{the-big-crystal}{%
 \chapter{The Big Crystal}\label{the-big-crystal}}
@@ -157,6 +174,8 @@ crystal.''
 King Cat turned off the TV and said, ``I have a plan to get kitty put in
 jail. Hahaha!''
 
+\includegraphics{img/boom.jpg}
+
 \hypertarget{the-plan}{%
 \chapter{The Plan}\label{the-plan}}
 
@@ -168,6 +187,8 @@ Kitty's house. He grabbed the crystal. He got out the door when the cops
 were there.
 
 The cops said, ``You and kitty are going to court.''
+
+\includegraphics{img/cattriangle.jpg}
 
 \hypertarget{the-trial}{%
 \chapter{The Trial}\label{the-trial}}
@@ -191,6 +212,8 @@ you. It's now or never! Thorough King Cat out of Cat Town.''
 
 The cats let go of Kitty and grabbed King Cat and threw him out of cat
 town.
+
+\includegraphics{img/thirdplace.jpg}
 
 \hypertarget{a-new-king}{%
 \chapter{A New King}\label{a-new-king}}
@@ -218,6 +241,8 @@ King Cat said, ``I have to get my revenge on Kitty but I need another
 helper.''
 
 ``I know just the one,'' Mr Fluffy Pants said.
+
+\includegraphics{img/thankyou.jpg}
 
 \hypertarget{super-cat}{%
 \chapter{Super Cat}\label{super-cat}}
@@ -251,6 +276,8 @@ Super Cat said, ``I can't destroy the wall, it can only destroy a big
 building.''
 
 ``How about Kitty's Castle?'' said King Cat.
+
+\includegraphics{img/supercat.jpg}
 
 \hypertarget{the-destruction-of-cat-planet}{%
 \chapter{The destruction of Cat
