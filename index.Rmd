@@ -1,21 +1,24 @@
 --- 
 title: "Kitty Story"
 subtitle: "A New Series"
-author: "Beckett and Felix "
+author: "by Beckett and Felix "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: krantz
 fontsize: 12pt
 classoption: oneside
 description: "A New Series about Kitty"
-cover-image: "img/05-four-bad-guys.jpg"
-favicon: "img/mc-favicon.ico"
+cover-image: "img/catplanet.jpg"
+favicon: "img/cat-favicon.ico"
 github-repo: "bwstephens/kitty-story"
 ---
 
-# Preface {-}
+# {-}
 
 ![](img/catplanet.jpg)
+
+# Preface {-}
+
 
 # About the Authors {-}
 
