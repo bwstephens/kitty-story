@@ -17,8 +17,7 @@ github-repo: "bwstephens/kitty-story"
 
 ![](img/catplanet.jpg)
 
-We wanted to do something different in this book. I wanted to do a joint work with my brother, Felix, so I had the idea of writing a book about his stuff cat, Kitty. Felix came up with with the story about Cat Planet. It was natural for me to write down the story and then have Felix color the pictures. This was a fun collaboration, and we're already planning the next book in the series. We hope you enjoy this new series.
-
+I wanted to do something different for my latest book. I wanted to do a joint work with my brother, Felix, so I wrote a book about his stuff cat, Kitty. Felix came up with with Kitty's story about Cat Planet. It was natural for me to write down the story and then have Felix color in the pictures. This was a fun collaboration, and we’re already planning the next book in the series. I hope you enjoy Kitty’s Story, the first book in a new series about Kitty.
 
 # About the Authors {-}
 
