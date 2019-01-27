@@ -36,7 +36,7 @@ The reporter said, "Hi, I am reporter Fish (a common cat name on Cat Planet). To
 
 "Thank you, Fish." said Kitty.
 
-"The bad guys were going to use Miss Crystal to shoot a very powerful blast of energy. Here's some pictures by Beckett and Felix to show you what would happen. But before they did that I went in and POW! WACK! BLAM! and got the crystal."
+"The bad guys were going to use this crystal to shoot a very powerful blast of energy. Here's some pictures by Beckett and Felix to show you what would happen. But before they did that I went in and POW! WACK! BLAM! and got the crystal."
 
 "You explain that very well," said Fish.
 
@@ -68,7 +68,7 @@ King Cat said, "Kitty is going to jail and anybody who tries to stop me will go 
 
 The people did not want to be kicked in jail but guards grabbed Kitty by the tail and were about to put him in jail. 
 
-Kitty said "Stop! Hear me out! King cat is a monster. He is controlling you. It's now or never! Throw King Cat out of Cat Town." 
+Kitty said "Stop! Hear me out! King cat is a monster. Is he controlling you? It's now or never! Throw King Cat out of Cat Town." 
 
 "What?!" King cat said. 
 
@@ -127,11 +127,15 @@ Super Cat said, "It can’t destroy the wall, it can only destroy a big building
 
 # The destruction of Cat Planet
 
+![](img/laser.jpg)
+
 The next morning Kitty woke up. People were running, so Kitty ran and opened the door. Super Cat shot the laser and destroyed Cat Castle. Everyone died. Only Kitty, Grace, and Fluffy survived. But Cat Planet was cracking.
 
 "Wow!" Kitty said. 
 
 "It can’t be ... Cat Planet is exploding! Let’s get out of here!" Super Cat said. 
+
+![](img/lava.jpg)
 
 They got in a spaceship. Super Cat took one while King Cat and Mr Fluffy Pants took another. The two purple ships flew out of Cat Planet. Kitty got Fluffy and Grace then put them in a small blue ship. They flew away also as bits of rocks and pebbles left the planet. 
 
@@ -139,3 +143,4 @@ BANG!!!
 
 Cat Planet was destroyed and the only remaining survivors were Super Cat, King Cat, Mr Fluffy Pants, Kitty, Grace, and Fluffy.
 
+![](img/flying.jpg)
