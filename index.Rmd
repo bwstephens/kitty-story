@@ -4,10 +4,10 @@ subtitle: "A New Series"
 author: "by Beckett and Felix "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-#documentclass: krantz
-#fontsize: 12pt
-documentclass: svmono
-classoption: twoside
+documentclass: krantz
+geometry: left=1.5cm, right=1.5cm, top=1cm, bottom=3cm
+#documentclass: svmono
+#classoption: twoside, 12pt
 description: "A New Series about Kitty"
 cover-image: "img/catplanet.jpg"
 favicon: "img/cat-favicon.ico"
